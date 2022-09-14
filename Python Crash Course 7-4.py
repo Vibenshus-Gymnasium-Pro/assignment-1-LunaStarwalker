@@ -8,3 +8,8 @@ while topp != 'quit':
     if topp != 'quit':
         toppings.append(topp)
         print("\nWe will add", topp, "to your pizza.\n")
+
+
+print("\nWe are preparing your pizza with the following ingredients:")
+for x in toppings:
+    print(x.title())
