@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa2d54cc-eb15-428f-9899-63ae53d39398" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise 0 Classes and Objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise 1 Classes and Objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise 2 Classes and Objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise 3 Classes and Objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise 4 Classes and Objects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Envelope Game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
