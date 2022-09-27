@@ -29,9 +29,11 @@ class EnvelopeGame:
 
     def find_max(self):
 
-        for i in self._envelopes:
-            if i > self._maxEnvelope:
-                self._maxEnvelope = i
+        for _i in self._envelopes:
+            if _i < self._maxEnvelope and _i != self._envelopes[-1]:
+                self._envelopes.remove(_i)
+            elif _i > self._maxEnvelope or _i == self._envelopes[-1]:
+                self._maxEnvelope = _i
 
         return self._maxEnvelope
 
