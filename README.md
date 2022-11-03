@@ -45,3 +45,7 @@ Matplotlib er et kæmpe bibliotek, som gør det muligt at vise data med forskell
 Recursive programming går ud på at løse et problem ved enten at opdele det i mindre problemer, eller ved at prøve at komme frem til det grundlæggende problem. Man kan bruge "divide and conquer" princippet i recursive programming.<br/>
 I recursive programming skal man kalde sig selv igen og igen. I en funktion betyder det altså, at funktionen kalder sig selv. Det er altså ikke sequence-programmering.
 
+## Diagrammer
+- **Class Diagram:** Et class diagram viser forholdene mellem de forskellige klasser i et program samtidigt med, at det også viser de enkelte klassers parametre, metoder og  deres objekters egenskaber. Man bruger begreberne: Association, Aggregation and Composition, for at betegne forholdet mellem klasserne. I association  https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-aggregation-vs-composition/ <br/> En superclass betegner en klasse, som er et overordnet term for underinddelinger af klassen. 
+<!-- -->
+
