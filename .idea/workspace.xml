@@ -2,6 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa2d54cc-eb15-428f-9899-63ae53d39398" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Envelopes Again.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Envelopes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fibonacci Sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Crash Course 11-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Turtles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/city_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phonebook-classy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phonebook-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phonebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_cities.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Envelope Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Envelope Game.py" afterDir="false" />
     </list>
@@ -30,7 +42,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Donap/Documents/GitHub/Giffel&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Donap/Documents/GitHub/TextAdventure&quot;
   }
 }</component>
   <component name="RunManager">
@@ -55,9 +67,24 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_cities.City_Functions_Test" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="assignment-1-LunaStarwalker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_cities.City_Functions_Test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Exercises" />
+        <item itemvalue="Python tests.Python tests for test_cities.City_Functions_Test" />
       </list>
     </recent_temporary>
   </component>

@@ -2,13 +2,14 @@
 
 import random
 
+
 class EnvelopeGame:
 
-    def __init__(self, list):
-        if len(list) < 10000:
+    def __init__(self, my_list):
+        if len(my_list) < 10000:
             print("Please insert more envelopes. (min 10000)")
         else:
-            self._envelopes = list
+            self._envelopes = my_list
             self._maxEnvelope = 0
 
     def low_value(self):
@@ -42,17 +43,19 @@ class EnvelopeGame:
 
 
 my_list = []
+my_probability = []
 
-for i in range(10000):
-    value = random.randint(1, 50000)
-    my_list.append(value)
+def random_env(range):
+
+    for i in range(range):
+        value = random.randint(1, 50000)
+        my_list.append(value)
 
 
 my_game = EnvelopeGame(my_list)
-
 print(my_list)
-print(max(my_game.show_env()))
-print(my_game.pick_env())
-print(my_game.show_env())
-print(my_game.find_max())
 
+for i in range(30):
+    print(max(my_game.show_env()))
+    print(my_game.pick_env())
+    print(my_game.find_max())
