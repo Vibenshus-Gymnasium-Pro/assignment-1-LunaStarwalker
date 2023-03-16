@@ -2,20 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa2d54cc-eb15-428f-9899-63ae53d39398" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Envelopes Again.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Envelopes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fibonacci Sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Crash Course 11-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Turtles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/city_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phonebook-classy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phonebook-test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phonebook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_cities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMIL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkintr/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkintr/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkintr/history.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkintr/myCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkintr/scrollwindow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkintr/tkinti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkintr/window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aprise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bestrelay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/euklid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/football.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recQuick.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/squareArt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtly.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Envelope Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Envelope Game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +44,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Donap/Documents/GitHub/TextAdventure&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Users/Donap/Documents/GitHub/assignment-1-LunaStarwalker"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Donap\Documents\GitHub\assignment-1-LunaStarwalker\Tkintr" />
+      <recent name="C:\Users\Donap\Documents\GitHub\svg-assignment-LunaStarwalker" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Exercises" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="assignment-1-LunaStarwalker" />
