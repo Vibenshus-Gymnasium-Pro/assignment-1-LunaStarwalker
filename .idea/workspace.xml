@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa2d54cc-eb15-428f-9899-63ae53d39398" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SMIL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkintr/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkintr/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkintr/history.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkintr/myCalculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkintr/scrollwindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkintr/tkinti.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkintr/window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aprise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bestrelay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/euklid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/football.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recQuick.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/squareArt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/turtly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tkintr/workshop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop_pygame.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkintr/tkinti.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkintr/tkinti.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +30,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "C:/Users/Donap/Documents/GitHub/assignment-1-LunaStarwalker"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Donap/Documents/GitHub/assignment-1-LunaStarwalker&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Donap\Documents\GitHub\assignment-1-LunaStarwalker\Tkintr" />
